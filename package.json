@@ -1,0 +1,12 @@
+{
+  "name": "npm-demo-literal",
+  "version": "1.0.1",
+  "description": "this is demo",
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "npm-demo"
+  ],
+  "author": "literal",
+  "license": "ISC"
+}
